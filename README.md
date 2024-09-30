@@ -1,6 +1,7 @@
 ## Hey, I'm William 👋🏼
 
 > I'm a student from Norway, studying to become a civil engineer in *applied computer technology and engineering*.
+> *Year 2 of 5*
 
 ### My current projects
 - **CodeLinker**: A react native based app for scanning QR/barcodes aimed towards employees in stores.
