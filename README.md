@@ -5,6 +5,7 @@
 
 ### My current projects
 - **CodeLinker**: A react native based app for scanning QR/barcodes aimed towards employees in stores.
+- **OutfitRecommender**: A machine learning project for analyzing outfits. 
 
 <!-- 
 ---
