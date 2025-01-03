@@ -4,7 +4,7 @@
 > *In year 3 of 5*
 
 ### My current projects
-- **CodeCore** (*private repo*): A react native based app for scanning QR/barcodes aimed for use in everyday life.
+- **CodeCore** (*private repo*): A react native based app for scanning QR-/barcodes aimed for use in everyday life.
 
 <!-- 
 ---
