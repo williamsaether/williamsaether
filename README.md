@@ -5,6 +5,7 @@
 
 ### My current projects
 - **CodeCore** (*private repo*): A react native based app for scanning QR-/barcodes aimed for use in everyday life.
+- **Portfolio website**: A website to show portfolios for both bysaether and myself.
 
 <!-- 
 ---
