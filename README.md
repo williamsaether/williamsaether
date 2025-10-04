@@ -4,8 +4,7 @@
 > *In year 3 of 5*
 
 ### My current projects
-- **CodeCore** (*private repo*): A react native based app for scanning QR-/barcodes aimed for use in everyday life.
-- **Portfolio website**: A website to show portfolios for both bysaether and myself.
+- [**CodeCore**](https://apps.apple.com/us/app/codecore/id6739577598) (*private repo*): A react native based app for scanning QR-/barcodes aimed for use in everyday life.
 
 
 ## MY WEBSITE - [william.bysaether.com](https://william.bysaether.com)
