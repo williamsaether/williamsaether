@@ -1,7 +1,7 @@
 ## Hey, I'm William 👋🏼
 
-> I'm a student from Norway, studying to become a civil engineer in *Computer Science*.
-> *In year 3 of 5*
+> I'm a student from Norway, MSc *Computer Science* @ NTNU.
+> *In year 4 of 5*
 
 ### My current projects
 - [**CodeCore**](https://apps.apple.com/us/app/codecore/id6739577598) (*private repo*): A react native based app for scanning QR-/barcodes aimed for use in everyday life.
