@@ -5,7 +5,7 @@
 
 ### My current projects
 - [**CodeCore**](https://apps.apple.com/us/app/codecore/id6739577598) (*private repo*): A react native based app for scanning QR-/barcodes aimed for use in everyday life.
-- **MealGrab** (*private repo*): A mobile app for extracting and saving recipes from Instagram and TikTok. This app doesn't force users to pay for the app, instead it uses ADs to pay for AI APIs.
+- [**ReciGrab**](https://apps.apple.com/us/app/recigrab/id6756504828) (*private repo*): A mobile app for extracting and saving recipes from Instagram and TikTok. This app doesn't force users to pay for the app, instead it uses ADs to pay for AI APIs.
 
 
 ## MY WEBSITE - [william.bysaether.com](https://william.bysaether.com)
